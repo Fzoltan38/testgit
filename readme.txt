@@ -1,1 +1,1 @@
-Initaial main brach is created.
+Initaial frontend brach is created.
